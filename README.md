@@ -3,7 +3,7 @@
 Basic program that shows the concept of Object Oriented Programming in C++
 
 It includes:
-- Inheritence,
+- Inheritance,
 - Polymorphism,
 - Encapsulation,
 - Abstruction,
